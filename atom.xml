@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiahary.github.io</id>
     <title>Goza 的博客</title>
-    <updated>2022-04-09T12:59:48.712Z</updated>
+    <updated>2022-04-09T13:11:33.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiahary.github.io"/>
     <link rel="self" href="https://wiahary.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://wiahary.github.io/images/avatar.png</logo>
     <icon>https://wiahary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Goza 的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次写博客  by Goza]]></title>
+        <id>https://wiahary.github.io/post/di-yi-ci-xie-bo-ke-by-goza/</id>
+        <link href="https://wiahary.github.io/post/di-yi-ci-xie-bo-ke-by-goza/">
+        </link>
+        <updated>2022-04-09T13:07:27.000Z</updated>
+        <content type="html"><![CDATA[<p>2022.4.9  开启我的博客之旅。<br>
+博客内容将记录我的学习之路，包括Go、羊毛、理财等<br>
+学习是一条无止尽之路，尽情享受吧！<br>
+<img src="https://wiahary.github.io/post-images/1649509842063.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wiahary.github.io/post/hello-gridea/</id>
